@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Connect With Me
-🌐 [LinkedIn](https://www.linkedin.com/in/nagham-malhas/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/nagham-malhas-1256b338b/)  
 💻 [GitHub](https://github.com/naghammalhas)  
 📧 [Email](mailto:s12326628@stu.najah.edu)
 
